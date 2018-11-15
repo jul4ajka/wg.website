@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Open Sans regular';
+    src: url('../fonts/Open_Sans/opensans_regular_macroman/OpenSans-Regular-webfont.woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans semibold';
+    src: url('../fonts/Open_Sans/opensans_semibold_macroman/OpenSans-Semibold-webfont.woff');
+    font-weight: 800;
+    font-style: normal;
+}
